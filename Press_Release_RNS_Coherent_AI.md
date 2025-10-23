@@ -22,6 +22,6 @@ RNS artifacts (white papers, operational interfaces, and the `rns_console.py` re
 MirrorCore² builds coherent AI systems that pace, repair, and justify themselves before they speak.
 
 **Media Contact**  
-press@mirrorcore.ai
+press@mirrorcore.com
 
 **Signature:** Joshua Wilson — Architect & Originator of the RNS™, MirrorCore²
